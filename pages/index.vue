@@ -1,9 +1,5 @@
 <template>
-  <Tutorial />
+  <div>
+    <MountainsList />
+  </div>
 </template>
-
-<script>
-export default {
-  name: 'IndexPage',
-}
-</script>
